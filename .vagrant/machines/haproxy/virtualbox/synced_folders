@@ -1,0 +1,1 @@
+{"virtualbox":{"/data":{"guestpath":"/data","hostpath":"/Applications/XAMPP/xamppfiles/htdocs/devops","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Applications/XAMPP/xamppfiles/htdocs/devops","disabled":false,"__vagrantfile":true}}}
